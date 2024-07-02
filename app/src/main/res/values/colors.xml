@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- IceCream Theme Colors -->
+    <color name="IceCream_Background">#F9F5ED</color>
+    <color name="IceCream_Green_Btn">#83F3A2</color>
+    <color name="IceCream_Blue_Btn">#83E6F3</color>
+    <color name="IceCream_Red_Btn">#F8AEAE</color>
+    <color name="IceCream_Yellow_Btn">#F8EE00</color>
+    <color name="IceCream_Corn">#FDE2BA</color>
+    <color name="IceCream_Green_Font">#005C1A</color>
+    <color name="IceCream_Blue_Font">#007282</color>
+    <color name="IceCream_Red_Font">#9F0707</color>
+    <color name="IceCream_Yellow_Font">#A49F32</color>
+    <color name="IceCream_Corn_Font">#704A13</color>
+    <!-- Summer Theme Colors -->
+    <color name="Summer_Background">#445D9F</color>
+    <color name="Summer_Purple_Btn">#B0B6EA</color>
+    <color name="Summer_Blue_Btn">#73B3FF</color>
+    <color name="Summer_LightYellow_Btn">#F8FFCC</color>
+    <color name="Summer_LightBlue_Btn">#C6F3F5</color>
+    <color name="Summer_DarkYellow_Btn">#F8D374</color>
+    <color name="Summer_Purple_Font">#1C2575</color>
+    <color name="Summer_Blue_Font">#EFF6FF</color>
+    <color name="Summer_LightYellow_Font">#A6AD79</color>
+    <color name="Summer_LightBlue_Font">#27757A</color>
+    <!-- Warm Theme Colors -->
+    <color name="Warm_Background">#47634F</color>
+    <color name="Warm_Green_Btn">#88BB76</color>
+    <color name="Warm_LightGreen_Btn">#B4E2B3</color>
+    <color name="Warm_Brown_Btn">#B1844E</color>
+    <color name="Warm_Yellow_Btn">#E3B233</color>
+    <color name="Warm_Red_Btn">#DA5821</color>
+    <color name="Warm_Green_Font">#D1F2C5</color>
+    <color name="Warm_LightGreen_Font">#178A15</color>
+    <color name="Warm_Brown_Font">#FCDFBE</color>
+    <color name="Warm_Yellow_Font">#F9E3AA</color>
+    <color name="Warm_Red_Font">#F6AC8C</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
